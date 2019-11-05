@@ -68,7 +68,7 @@ class ViewController: UIViewController {
 
             } else if operation == 14{
 
-            label.text = String(previousNumber - screenNumber)
+            label.text = String(previousNumber + screenNumber)
 
             } else if operation == 15{
 
